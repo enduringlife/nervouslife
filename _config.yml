@@ -9,7 +9,7 @@
 title: nervous.life
 email: enduring@nervous.life
 description: > # this means to ignore newlines until "baseurl:"
-  Little pieces of enduring
+  Don't mind me. I'm just nervous.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://nervous.life" # the base hostname & protocol for your site
 
